@@ -1,0 +1,8 @@
+name: Plotding
+version: '${project.version}'
+main: be.esmay.plotding.Plotding
+softdepend:
+  - WorldGuard
+  - Vault
+authors:
+  - Esmaybe
